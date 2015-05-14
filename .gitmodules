@@ -1,0 +1,3 @@
+[submodule "Contrib"]
+	path = Contrib
+	url = https://github.com/splinex/Contrib
